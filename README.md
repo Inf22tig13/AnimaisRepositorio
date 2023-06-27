@@ -16,7 +16,7 @@ _Please help reader navigate around describing how the repository is organized b
 ## Relatório
 
 ### Descrição do Projeto
-* Parte 1: [Descrição]()
+* Parte 1: [Descrição](Parte1)
 ### Interface com o utilizador
 * Parte 2: [Interface com utilizador]()
 ### Produto
