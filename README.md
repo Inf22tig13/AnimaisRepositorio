@@ -11,9 +11,7 @@ Aqui está o relatório para a apresentar o projeto realizado.
 * XML
 * HTML5
 * CSS3
-* XSD
-    
-  
+      
 ## Relatório
 
 ### Descrição do Projeto
