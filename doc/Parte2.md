@@ -15,5 +15,5 @@
 
 ---
 
-< Previous | [^ Main](../../../) | [Next >](Parte2.md)
+< Previous(Parte1.md) | [^ Main](../../../) | [Next >](Parte2.md)
 :--- | :---: | ---: 
