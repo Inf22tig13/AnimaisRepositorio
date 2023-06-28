@@ -13,16 +13,16 @@ Os ficheiros HTML5 e CSS3 são validados aqui: https://validator.w3.org/
   
 - HTML:
   
-- No HTML inserimos a tabela na página Cães e Gatos.
-- Cada animal disponivel nas tabelas tem uma imagem associada.
-- Nos destaques acad animal tem uma foto e uma breve história.
+- No HTML inserimos a tabela na página Cães e Gatos
+- Cada animal disponivel nas tabelas tem uma imagem associada
+- Nos destaques acad animal tem uma foto e uma breve história
   
 - CSS:
   
--Texto e fonte.
--Imagens nas tabelas e nos destaques foram formatadas.
--Botão para fazer o download do XML.
--Tabelas nas páginas Cães e Gatos foram formatadas.
+-Texto e fonte
+-Imagens nas tabelas e nos destaques foram formatadas
+-Botão para fazer o download do XML
+-Tabelas nas páginas Cães e Gatos foram formatadas
   
 
 ---
