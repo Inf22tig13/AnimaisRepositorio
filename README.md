@@ -20,10 +20,8 @@ Aqui está o relatório para a apresentar o projeto realizado.
 * Parte 2: [Interface com utilizador](doc/Parte2.md)
 ### Produto
 * Parte 3: [Interface com utilizador](doc/Parte3.md)
-### Apresentação
-* Parte 4: [Apresentação](TI.pdf)
 
-## Team
+## Grupo
 * Artur Ribeiro (https://github.com/ArturRibeiro9)
 * Bernardo Macedo (https://github.com/bmacedo16)
 * Marcos Sousa (https://github.com/msousa13)
