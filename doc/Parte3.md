@@ -19,10 +19,11 @@ Os ficheiros HTML5 e CSS3 são validados aqui: https://validator.w3.org/
   
 - CSS:
   
--Texto e fonte
+- Texto e fonte
 -Imagens nas tabelas e nos destaques foram formatadas
 -Botão para fazer o download do XML
 -Tabelas nas páginas Cães e Gatos foram formatadas
+
   
 
 ---
