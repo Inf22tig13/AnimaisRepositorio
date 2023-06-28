@@ -19,7 +19,7 @@ Aqui está o relatório para a apresentar o projeto realizado.
 ### Interface com o utilizador
 * Parte 2: [Interface com utilizador](doc/Parte2.md)
 ### Produto
-* Parte 3: [Interface com utilizador](doc/Parte3.md)
+* Parte 3: [Produto](doc/Parte3.md)
 
 ## Grupo
 * Artur Ribeiro (https://github.com/ArturRibeiro9)
