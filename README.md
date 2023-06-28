@@ -18,8 +18,10 @@ Aqui está o relatório para a apresentar o projeto realizado.
 * Parte 1: [Descrição](doc/Parte1.md)
 ### Interface com o utilizador
 * Parte 2: [Interface com utilizador](doc/Parte2.md)
+### Produto
+* Parte 3: [Interface com utilizador](doc/Parte3.md)
 ### Apresentação
-* Parte 3: [Apresentação](TI.pdf)
+* Parte 4: [Apresentação](TI.pdf)
 
 ## Team
 * Artur Ribeiro (https://github.com/ArturRibeiro9)
