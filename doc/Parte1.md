@@ -11,5 +11,5 @@ No nosso projeto é possivel encontrar 6 páginas estáticas denominadas como: I
 
 ---
 
-< Previous | [^ Main](../../../) | [Next >](Parte2)
+< Previous | [^ Main](../../../) | [Next >](doc/Parte2.md)
 :--- | :---: | ---: 
