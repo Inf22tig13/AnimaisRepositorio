@@ -4,9 +4,7 @@ Este repositório serve para desenvolver o projeto para a cadeira de 'Tecnologia
 
 ## Organização do Repositorio
 
-_Please help reader navigate around describing how the repository is organized by providing links_
-* **Source code** is in the [src folder](src/).
-* Report chapters are in [doc folder](doc/).
+Aqui está o relatório para a apresentar o projeto realizado.
 
 ## Tecnologias
 
