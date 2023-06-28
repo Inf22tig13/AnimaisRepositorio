@@ -11,18 +11,19 @@ _Please help reader navigate around describing how the repository is organized b
 ## Tecnologias
 
 * XML
-* HTML5 + CSS3
-
+* HTML5
+* CSS3
+* XSD
+    
+  
 ## Relatório
 
 ### Descrição do Projeto
 * Parte 1: [Descrição](doc/Parte1.md)
 ### Interface com o utilizador
 * Parte 2: [Interface com utilizador](doc/Parte2.md)
-### Produto
-* Parte 3: [Produto]()
 ### Apresentação
-* Parte 4: [Apresentação](imagens/banner.png)
+* Parte 3: [Apresentação](imagens/banner.png)
 
 ## Team
 * Artur Ribeiro (https://github.com/ArturRibeiro9)
