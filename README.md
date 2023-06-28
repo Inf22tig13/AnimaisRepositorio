@@ -22,7 +22,7 @@ _Please help reader navigate around describing how the repository is organized b
 ### Produto
 * Parte 3: [Produto]()
 ### Apresentação
-* Parte 4: [Apresentação]()
+* Parte 4: [Apresentação](imagens/banner.png)
 
 ## Team
 * Artur Ribeiro (https://github.com/ArturRibeiro9)
