@@ -24,5 +24,5 @@ Os ficheiros HTML5 e CSS3 são validados aqui: https://validator.w3.org/
   
 
 ---
-[< Previous](Parte2.md) | [^ Main](../../../) | [Next >](Parte4.md)
+[< Previous](Parte2.md) | [^ Main](../../../) | [Next >](TI.pdf)
 :--- | :---: | ---: 
