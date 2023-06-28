@@ -21,6 +21,9 @@ Aqui está o relatório para a apresentar o projeto realizado.
 ### Produto
 * Parte 3: [Produto](doc/Parte3.md)
 
+### Apresentação
+* Parte 4: [PowerPoint](TI.pdf)
+
 ## Grupo
 * Artur Ribeiro (https://github.com/ArturRibeiro9)
 * Bernardo Macedo (https://github.com/bmacedo16)
