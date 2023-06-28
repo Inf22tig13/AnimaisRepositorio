@@ -21,7 +21,7 @@ Aqui está o relatório para a apresentar o projeto realizado.
 ### Interface com o utilizador
 * Parte 2: [Interface com utilizador](doc/Parte2.md)
 ### Apresentação
-* Parte 3: [Apresentação](imagens/banner.png)
+* Parte 3: [Apresentação](TI.pdf)
 
 ## Team
 * Artur Ribeiro (https://github.com/ArturRibeiro9)
