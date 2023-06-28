@@ -1,0 +1,40 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.animais.org" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="categoria">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="gatos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="gato" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="nome"/>
+                    <xs:element type="xs:string" name="idade"/>
+                    <xs:element type="xs:string" name="raca"/>
+                    <xs:element type="xs:string" name="genero"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="caes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cao" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="nome"/>
+                    <xs:element type="xs:string" name="idade"/>
+                    <xs:element type="xs:string" name="raca"/>
+                    <xs:element type="xs:string" name="genero"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

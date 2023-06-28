@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categoria xmlns="http://www.animais.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.animais.org animais.xsd">
+  <gatos>
+    <gato>
+      <nome>Miau</nome>
+      <idade>4 anos</idade>
+      <raca>Persa</raca>
+      <genero>Femea</genero>
+    </gato>
+    <gato>
+      <nome>Pocoio</nome>
+      <idade>6 meses</idade>
+      <raca>Van Turco</raca>
+      <genero>Macho</genero>
+    </gato>
+    <gato>
+      <nome>Chentric</nome>
+      <idade>8 anos</idade>
+      <raca>Snorlax</raca>
+      <genero>Macho</genero>
+    </gato>
+    <gato>
+      <nome>Luninho</nome>
+      <idade>6 anos</idade>
+      <raca>Rafeiro</raca>
+      <genero>Macho</genero>
+    </gato>
+    <gato>
+      <nome>Milos</nome>
+      <idade>12 anos</idade>
+      <raca>Persa Branco</raca>
+      <genero>Macho</genero>
+    </gato>
+    <gato>
+      <nome>Roberto</nome>
+      <idade>14 anos</idade>
+      <raca>Rafeiro</raca>
+      <genero>Macho</genero>
+    </gato>
+  </gatos>
+  <caes>
+    <cao>
+      <nome>Boltz</nome>
+      <idade>2 anos</idade>
+      <raca>Labrador Retriever</raca>
+      <genero>Macho</genero>
+    </cao>
+    <cao>
+      <nome>Raivado</nome>
+      <idade>3 meses</idade>
+      <raca>Pitbull</raca>
+      <genero>Macho</genero>
+    </cao>
+    <cao>
+      <nome>Raby</nome>
+      <idade>7 anos</idade>
+      <raca>Pondengo</raca>
+      <genero>Macho</genero>
+    </cao>
+    <cao>
+      <nome>Pipoca</nome>
+      <idade>2 anos</idade>
+      <raca>Salsicha</raca>
+      <genero>Femea</genero>
+    </cao>
+    <cao>
+      <nome>Joaquim</nome>
+      <idade>15 anos</idade>
+      <raca>Perniet da Anatartida</raca>
+      <genero>Macho</genero>
+    </cao>
+    <cao>
+      <nome>Opio</nome>
+      <idade>11 anos</idade>
+      <raca>Pastor Alemão</raca>
+      <genero>Macho</genero>
+    </cao>
+  </caes>
+</categoria>
