@@ -6,7 +6,11 @@ Dócil Doção, website de um canil.
 
 Os ficheiros HTML5 e CSS3 são validados aqui: https://validator.w3.org/
 
-## 3.4 Detalhes da Implementação
+## 3.2 Ligação para o site:
+
+https://inf22tig13.netlify.app/
+
+## 3.3 Detalhes da Implementação
 -Existem 6 páginas estáticas: Inicio, Cães, Gatos, Sobre, Contato e Documentos XML e XSD.
 - Criamos uma página reservada para o download do xml e o seu respetivo schema pois achamos que ficava mais apresentável.
 - O CSS foi aplicado externamente.
