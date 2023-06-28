@@ -16,9 +16,9 @@ _Please help reader navigate around describing how the repository is organized b
 ## Relatório
 
 ### Descrição do Projeto
-* Parte 1: [Descrição](PartesRelatório/Parte1.md)
+* Parte 1: [Descrição](doc/Parte1.md)
 ### Interface com o utilizador
-* Parte 2: [Interface com utilizador](PartesRelatório/Parte2.md)
+* Parte 2: [Interface com utilizador](doc/Parte2.md)
 ### Produto
 * Parte 3: [Produto]()
 ### Apresentação
